@@ -1,5 +1,9 @@
-var uppeCase = "H"
-
+var uppeCase = "HELLO!"{
+  upperCase.toUpperCase()===upperCase
+}
+var lowerCase = "hello!"{
+  lowerCase.toLowerCase()===lowerCase
+}
 function shout(string) {
   return string.toUpperCase() 
 }
