@@ -1,4 +1,4 @@
-var uppeCase = "HELLO!"{
+var upperCase = "HELLO!"{
   upperCase.toUpperCase()===upperCase
 }
 var lowerCase = "hello!"{
