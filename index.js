@@ -4,10 +4,11 @@ function shout(string) {
 function whisper(string) {
   return string.toLowerCase()
 }
-function logShout(){
-  
+function logShout(string){
+  string.toUpperCase()
+  console.log()
 }
-function logWhisper(){
+function logWhisper(string){
   
 }
 function sayHiToGrandma(){
